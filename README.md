@@ -7,6 +7,7 @@ It uses UIGestureRecognizer, UIView animations, CALayer, UIBezierPath, and optio
 ## Appearance:
 User Interface:
 ![](https://github.com/water-fur-cat/Tic-Tac-Toe-game/blob/main/game.jpg)
+<br>
 When you win:
 ![](https://github.com/water-fur-cat/Tic-Tac-Toe-game/blob/main/win.jpg)
 
