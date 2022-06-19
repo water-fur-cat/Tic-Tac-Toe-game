@@ -5,7 +5,11 @@ I create gesture driven Tic Tac Toe game. The game is designed for two players t
 It uses UIGestureRecognizer, UIView animations, CALayer, UIBezierPath, and optionally, CABasicAnimation.<br>
 
 ## Appearance:
-* 
+User Interface:
+![](https://github.com/water-fur-cat/Tic-Tac-Toe-game/blob/main/game.jpg)
+When you win:
+![](https://github.com/water-fur-cat/Tic-Tac-Toe-game/blob/main/win.jpg)
+
 
 ## reference：
   https://stackoverflow.com/questions/27517632/how-to-create-a-delay-in-swift
